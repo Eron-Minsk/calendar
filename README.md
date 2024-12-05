@@ -13,7 +13,7 @@ A simple PHP-based web application that displays the current month of the Holoce
 
 1. Download the repository or clone it using Git:
    ```bash
-   git clone <repository-url>
+   git clone (https://github.com/Eron-Minsk/calendar.git)
    ```
 
 2. Upload the files to your web server, ensuring PHP is enabled.
@@ -42,7 +42,7 @@ The background image is from [wallpapers.com](https://wallpapers.com/wallpapers/
 
 ## License
 
-This project is open-source and free to use, modify, and distribute. However, please give credit for the background image as specified above.
+See LICENSE.md in this repo
 
 ## Contributions
 
