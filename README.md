@@ -33,6 +33,8 @@ A simple PHP-based web application that displays the current month of the Holoce
 - The `getCalendarDetails` function calculates the first day of the month and the number of days in the month based on the provided month and year.
 - Navigation buttons update the URL parameters (`month` and `year`) to switch between months.
 
+### HTML version available.
+ - Simply chown the directory to the web usersname (i.e apache) and then copy it to the /var/www/html/calendar folder, then go to the server_ip/calendar.
 ### CSS Styles
 - The calendar uses a starry background image (`starfield.jpg`) and highlights each day with a hover effect.
 - The layout is built with CSS grid for the calendar, and navigation buttons have smooth hover transitions for a more interactive feel.
